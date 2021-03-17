@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amplify-datastore-demo/static/css/main.59bea2f9.chunk.css",
+    "main.js": "/amplify-datastore-demo/static/js/main.e1ada651.chunk.js",
+    "main.js.map": "/amplify-datastore-demo/static/js/main.e1ada651.chunk.js.map",
+    "runtime-main.js": "/amplify-datastore-demo/static/js/runtime-main.4cd34e5d.js",
+    "runtime-main.js.map": "/amplify-datastore-demo/static/js/runtime-main.4cd34e5d.js.map",
+    "static/css/2.9e69b484.chunk.css": "/amplify-datastore-demo/static/css/2.9e69b484.chunk.css",
+    "static/js/2.c84c1303.chunk.js": "/amplify-datastore-demo/static/js/2.c84c1303.chunk.js",
+    "static/js/2.c84c1303.chunk.js.map": "/amplify-datastore-demo/static/js/2.c84c1303.chunk.js.map",
+    "index.html": "/amplify-datastore-demo/index.html",
+    "static/css/2.9e69b484.chunk.css.map": "/amplify-datastore-demo/static/css/2.9e69b484.chunk.css.map",
+    "static/css/main.59bea2f9.chunk.css.map": "/amplify-datastore-demo/static/css/main.59bea2f9.chunk.css.map",
+    "static/js/2.c84c1303.chunk.js.LICENSE.txt": "/amplify-datastore-demo/static/js/2.c84c1303.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cd34e5d.js",
+    "static/css/2.9e69b484.chunk.css",
+    "static/js/2.c84c1303.chunk.js",
+    "static/css/main.59bea2f9.chunk.css",
+    "static/js/main.e1ada651.chunk.js"
+  ]
+}
