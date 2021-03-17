@@ -39,6 +39,8 @@ type Todo @model {
 
 - amplify codegen models
 
+#### Follow advices on IDE 
+
 #### 5. Install DataStore Dependencies
 
 - npm i @aws-amplify/core @aws-amplify/datastore
