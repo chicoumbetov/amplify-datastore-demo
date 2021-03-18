@@ -19,6 +19,8 @@ export default class TodoComponent extends Component {
 
   componentDidMount() {
     this.loadTasks();
+
+    this.subscibeForNewTasks();
   }
 
   async loadTasks() {
@@ -26,6 +28,7 @@ export default class TodoComponent extends Component {
 
     // Load todos from DataStore
     let dataStoreItems = await DataStore.query(Todo);
+    //let todos = this.mapTodos(dataStoreItems);
     let todos = _.map(dataStoreItems, item => {
       return {
         id: item.id,
